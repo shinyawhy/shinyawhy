@@ -11,7 +11,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shinyawhy&count_private =true&show_icons=true&&theme=tokyonight&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
     <div align = "center">
     <img align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyawhy"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyawhy&hide=javascript,html"
     />
       </div>
   </samp>
