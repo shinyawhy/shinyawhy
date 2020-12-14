@@ -7,7 +7,7 @@
     :wave: Hey! Welcome to my github
     <br>
     <img src="https://github.com/guobinhit/guobinhit/blob/master/loading/Kamado-Nezuko.gif" width="150px" height="150px" align="center">
-    <br><br>:pizza: Take a look at my stats :P<br><br>
+    <br><br>🔭 I’m currently working on C++/QT :P<br><br>
     <img align="centrt" src="https://github-readme-stats.vercel.app/api?username=shinyawhy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
   </samp>
 <br>
